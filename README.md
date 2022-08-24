@@ -8,7 +8,9 @@ To connect other devices with your app you need to open the app on your phone an
 Procedure to use the app:
 1) Remove previous pairings with the host device in bluetooth settings(This has to be done once)
 2) Open the app
+3) Enable Bluetooth on the Phone
 3) Send a pairing request from the PC to the Phone
+    > Windows: Bluetooth Settings: [Add Bluetooth or other device], [Bluethooth] and the phone should show up
 4) Accept the pairing on the Phone running Kontroller
 5) Done
 
